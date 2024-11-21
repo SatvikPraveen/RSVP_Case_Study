@@ -70,7 +70,7 @@ The Entity-Relationship Diagram (ERD) provides a clear representation of databas
 ---
 
 ## **Key Business Insights**
-- [Full list of insights provided in `Executive_Summary.pdf`](./Executive_Summary.pdf)
+- Full list of insights provided in [`Executive_Summary.pdf`](./Executive_Summary.pdf)
 
 ---
 
