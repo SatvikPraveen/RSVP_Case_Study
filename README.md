@@ -90,4 +90,4 @@ The Entity-Relationship Diagram (ERD) provides a clear representation of databas
 
 ## **Author**
 - **Satvik Praveen**  
-  Data Science Enthusiast | [Your LinkedIn](https://www.linkedin.com/in/satvikpraveen/)
+  Data Science Enthusiast | [LinkedIn](https://www.linkedin.com/in/satvikpraveen/)
